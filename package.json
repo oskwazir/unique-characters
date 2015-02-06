@@ -1,6 +1,6 @@
 {
   "name": "unique-characters",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Find unique characters between two words",
   "main": "index.js",
   "scripts": {
