@@ -1,0 +1,29 @@
+{
+  "name": "unique-characters",
+  "version": "1.0.0",
+  "description": "Find unique characters between two words",
+  "main": "index.js",
+  "scripts": {
+    "test": "zuul -- test/*.js",
+    "test-local": "zuul --local -- test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thewazir/unique-characters.git"
+  },
+  "keywords": [
+    "Unique",
+    "Character",
+    "Comparision"
+  ],
+  "author": "Omer Wazir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thewazir/unique-characters/issues"
+  },
+  "homepage": "https://github.com/thewazir/unique-characters",
+  "devDependencies": {
+    "tape": "^3.4.0",
+    "zuul": "^1.16.5"
+  }
+}
