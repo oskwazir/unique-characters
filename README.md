@@ -26,7 +26,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 <!-- vars -->
 [npm-version]:https://img.shields.io/npm/v/unique-characters.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/unique-characters
-[travis-image]:https://img.shields.io/travis/thewazir/isbn-validator.svg?style=flat-square
+[travis-image]:https://img.shields.io/travis/thewazir/unique-characters.svg?style=flat-square
 [travis-url]:https://travis-ci.org/thewazir/unique-characters
 [license-image]:https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square
 [license-url]: #license
