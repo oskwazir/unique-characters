@@ -8,9 +8,12 @@ Finds unique characters between two words.
 [![Dependencies][dependencies-image]][dependencies-url]
 
 ## Usage
+Pass two strings and in return get an object with two properties `leftUnique` and `rightUnique` each containing an array of unique characters.
 ``` js
 var uniqCharacters = require('unique-characters');
+uniqCharacters("because","cause") // returns { leftUnique: ['b','e'], rightUnique: [] };
 
+uniqCharacters("tribesman","brainstem") // returns {[],[]};
 ```
 
 ## License
